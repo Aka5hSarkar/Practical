@@ -18,7 +18,7 @@ public class OperatorExample {
 		System.out.println("the multiplication is : "+mul);
 		int rem=a%b;//modulus
 		System.out.println("the remainder is : "+rem);
-		//relational & logical
+		//relational & logical operator
 		System.out.println(a>b&&a<b);//AND operator,true && false =false
 		System.out.println(a>b&&b<a);//AND operator,true && true=true
 		System.out.println(a<b||b<a);//OR operator , false || true =true
