@@ -8,7 +8,7 @@ public class SwitchEx {
 		break;
 		case 'e' :System.out.println("its a vowel");
 		break;
-		case 'o': System.out.println("its a vowel");
+		case 'i': System.out.println("its a vowel");
 		break;
 		default : System.out.println("its a consonant");
 		}
